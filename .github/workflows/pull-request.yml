@@ -58,6 +58,7 @@ jobs:
   # Check for any broken links
   markdown-link-check:
     runs-on: ubuntu-latest
+    environment: prod
     steps:
     # checkout to latest commit
     - uses: actions/checkout@master
