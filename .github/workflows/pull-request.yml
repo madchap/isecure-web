@@ -1,7 +1,11 @@
 name: PR Workflows
 
 # Run action on pull request event
-on: [pull_request]
+on:
+  pull_request:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
