@@ -8,54 +8,54 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Product Security leader and advisor
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: iSecu.re
+  url: "https://isecu.re"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I offer my combined experience in Platform Engineering and Product Security to enhance your Software Development LifeCycle (SDLC), so that you can meet your business targets.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "fred@isecu.re"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/madchap"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/fredblaise/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+#- name: Mastadon
+#  icon: "fab fa-mastodon"
+#  url: "#"
+#  rel: "me noopener"
 
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+#- name: ResearchGate
+#  icon: "fab fa-researchgate"
+#  url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -67,35 +67,51 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: Innovation
+  percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 95
   color: orange
+
+- type: certification
+  name: Certified Information Security Manager
+  url: "https://www.credly.com/badges/36db7bc6-15f2-49b6-9f94-760514d7a52c/public_url"
+  badge: "https://images.credly.com/size/340x340/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png"
+
+- type: certification
+  name: Certified Information Systems Security Professional
+  url: "https://www.credly.com/badges/9be39c6f-2936-4ce1-8e77-b58e9e55630e/public_url"
+  badge: "https://images.credly.com/size/340x340/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png"
+
+- type: certification
+  name: Certified Kubernetes Administrator
+  url: "https://www.credly.com/badges/36016358-4f6d-4e1b-a378-5f5a73ee738e/public_url"
+  badge: "https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/badges/c33aaa43-4957-4012-9fe8-62b588b04877/public_url"
+  badge: "https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"
+
+- type: certification
+  name: AWS Security Specialist
+  url: "https://www.credly.com/badges/1fa9ff21-9952-4131-b926-591fa18088f2/public_url"
+  badge: "https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"
+
+- type: certification
+  name: Privacy Engineering Certification
+  url: "https://www.credly.com/org/data-protocol/badge/privacy-engineering-certification"
+  badge: "https://images.credly.com/size/340x340/images/5689182e-313b-4c7c-9061-75c088ce524b/image.png"
+
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

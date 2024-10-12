@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://isecu.re
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "iSecu.re"
 
 # Use Hugo modules to add theme
 module:
@@ -23,13 +23,13 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "iSecu.re"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+#  fr:
+#    languageCode: fr
+#    languageName: French
+#    title: iSecu.re
+#    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -58,7 +58,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background-mountains-darkblue.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/madchap/isecure-web
   # Default branch of your Git repo
   gitBranch: main
 
@@ -98,7 +98,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -115,14 +115,14 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
       enable: false
       services:
         disqus:
-          shortName: toha-example-site
+          shortName: isecure-web
         # valine:
         #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
         #   appKey: pVrT3C85KGIuk27t07eh6bUC
@@ -157,7 +157,7 @@ params:
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-WFZFMT71SP
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
@@ -304,4 +304,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
