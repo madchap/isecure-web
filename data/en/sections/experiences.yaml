@@ -11,6 +11,36 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Light Frame
+    url: "https://www.lightframe.tech"
+    location: Lausanne, Switzerland
+    logo: /images/sections/experiences/lightframe.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Core Banking and Portfolio Management for contemporary private banks
+  positions:
+  - designation: Chief Information Security Officer
+    start: Jan 2025
+    responsibilities:
+      - Site Reliability Engineering and Security
+
+- company:
+    name: SecureFlag
+    url: "https://www.secureflag.com"
+    location: Remote
+    logo: /images/sections/experiences/secureflag.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Secure coding training and Threat Modeling for developers, DevOps and QA engineers. 
+  positions:
+  - designation: Special Advisor
+    start: Dec 2024
+    responsibilities:
+      - Advisor to the board
+
+- company:
     name: Thomson Reuters
     url: "https://www.thomsonreuters.com"
     location: Zug, Switzerland (Remote)
@@ -23,17 +53,7 @@ experiences:
   - designation: Senior Director, Product Security
     start: Jun 2021
     responsibilities:
-      - Reporting to the CISO, led a global 40+ kick-ass product security team (Enterprise Vulnerability Management, AppSec, Pentest, Software and Data Engineering) responsible for securing over 400 applications and empowering over 4000 engineers. Successfully drove product security maturity and implemented innovative security initiatives.
-      - Strategic Planning - Developed a 3-year roadmap aligned with NIST CSF and CMMI standards to enhance product security and succesfully met defined targets.
-      - Leadership Development - Nurtured and empowered a team of talented security leaders to drive results.
-      - Vulnerability Management - Comprehensive vulnerability management program, covering 140K+ assets across on-prem and 4 cloud environments.
-      - Security Posture Assessment - Oversaw development of comprehensive security assessment platform for product leaders to track progress, prioritize investments, and access security services.
-      - Security Champions Program - Drove program with the ambitious goal of having a security advocate in over 800 teams. Fell short, but learned a lot.
-      - Secure Development Training - Delivered engaging, hands-on security training to over 4000 engineers, driving wide adoption.
-      - Security toolchain development and optimization - Worked on secure paved roads to embed S-SDLC activities in-band of engineering work.
-      - Penetration Testing - Revamped the pentesting process to improve efficiency, precision, and adherence to financial targets.
-      - Managed Vulnerability Disclosure Program (VDP) and time-boxed bug bounties.
-      - Worked on CISA self-attestations, leveraging OWASP SAMM and NIST SSDF.
+      - Led a global 40+ members kick-ass product security teams (Enterprise Vulnerability Management, AppSec, Pentest, Software and Data Engineering) responsible for securing over 400 applications and empowering over 4000 engineers. Successfully drove product security maturity and implemented innovative security initiatives.
 
 - company:
     name: CloudBees
@@ -49,18 +69,6 @@ experiences:
     end: June 2021
     responsibilities:
       - Multi-faceted and transverse role heading security engineering within a critical software vertical, with the most popular open-source CI/CD engine (Jenkins) as well as for all CloudBees self-managed and commercial SaaS products.
-
-      - Team Leadership - Led the Jenkins Security and Product Security teams to deliver outsized results.
-      - Security Champions Program - Empowered engineers across product teams to become security advocates and drive a culture of security.
-      - Cloud Security - Collaborated with operations teams to ensure robust cloud security posture on AWS and GCP.
-      - DevSecOps - Strengthened the Security Development Lifecycle (SDL) through tailored processes and the use of the SAMM maturity model.
-      - Risk Management and security by design - Adapting pragmatic risk assessment/threat modeling as well as risk acceptance to Product Teams workflows.
-      - Vulnerability Management - Developed centralized, automated processes for ingesting and processing security vulnerability scans to improve visibility and enable proactive response using DefectDojo.
-      - Incident Response - Established and led the PSIRT to effectively manage security incidents.
-      - Security Training - Provided hands-on secure development training to foster a culture of continuous learning.
-      - Security Program Management - Overseen security programs, bug bounties, and penetration testing initiatives.
-      - Compliance - Managed SOC2 Type 2 compliance for SaaS products.
-      - Product Security Integration - Collaborated with product management to ensure security was a top priority in product development.
 
 - company:
     name: OWASP
