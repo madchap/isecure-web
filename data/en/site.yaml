@@ -7,7 +7,7 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: iSecu.re - freelance infosec services from Fred Blaise
+description: iSecu.re - DevSecOps, vCISO services from Fred Blaise
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -24,6 +24,6 @@ customMenus:
 openGraph:
   title: iSecu.re
   type: website
-  description: iSecu.re - freelance infosec services from Fred Blaise
+  description: iSecu.re - DevSecOps, vCISO services from Fred Blaise
   image: images/author/fred-cartoonified.png
   url: https://isecu.re

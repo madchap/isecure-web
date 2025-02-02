@@ -26,8 +26,8 @@ degrees:
   publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #  url: "#"
-  extracurricularActivities: #(optional)
-  - Accomplished while working full time.
+  #extracurricularActivities: #(optional)
+  #- Accomplished while working full time.
 - name: Bachelor in Computer Information Systems
   icon: fa-graduation-cap
   timeframe: 1999-2002
@@ -58,8 +58,8 @@ degrees:
     #- name: Artificial Intelligent
     #  achieved: 3.75
     #  outOf: 4
-  extracurricularActivities: #(optional)
-  - Top player in university team, scholarship grant.
+  #extracurricularActivities: #(optional)
+  #- Top player in university team, scholarship grant.
   # custonSections: #(optional)
   #  - name: Thesis
   #    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.

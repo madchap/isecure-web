@@ -29,7 +29,7 @@ experiences:
     name: SecureFlag
     url: "https://www.secureflag.com"
     location: Remote
-    logo: /images/sections/experiences/secureflag.jpg
+    logo: /images/sections/experiences/secureflag.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
@@ -91,7 +91,7 @@ experiences:
     name: Kudelski Security
     url: "https://www.kudelskisecurity.com"
     location: Cheseaux-sur-Lausanne, Switzerland
-    logo: /images/sections/experiences/ks.jpg
+    logo: /images/sections/experiences/ks.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Kudelski Security is a premier cybersecurity solutions provider, working with the most security-conscious organizations in Europe and across the United States.
