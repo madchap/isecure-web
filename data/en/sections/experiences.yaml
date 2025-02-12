@@ -52,8 +52,15 @@ experiences:
   positions:
   - designation: Senior Director, Product Security
     start: Jun 2021
+    end: November 2024
     responsibilities:
-      - Led a global 40+ members kick-ass product security teams (Enterprise Vulnerability Management, AppSec, Pentest, Software and Data Engineering) responsible for securing over 400 applications and empowering over 4000 engineers. Successfully drove product security maturity and implemented innovative security initiatives.
+      - Led a global 40+ members kick-ass global product security teams responsible for securing over 400 applications and empowering over 4000 engineers. Successfully drove product security maturity and implemented innovative security initiatives.
+        - Enterprise Vulnerability Management
+        - AppSec
+        - Secure Development Education and Security champions program 
+        - PSIRT
+        - Penetration testing
+        - Software and Data Engineering
 
 - company:
     name: CloudBees
